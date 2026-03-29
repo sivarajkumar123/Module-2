@@ -29,12 +29,9 @@ To write a Python program to check the relation between two numbers — whether 
 
 ### OUTPUT
 
-```
+![image](https://github.com/user-attachments/assets/3bf8bdc7-f26e-4d06-8fcc-adebb2998005)
 
-```
 
 ### RESULT
 
-```
-
-```
+Thus the Python program using a lambda function to compare two numbers and display their relation was executed successfully and the output was verified.
