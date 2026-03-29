@@ -28,5 +28,7 @@ To write a Python program to check if a number is a Perfect number using the con
 
 ```
 ### OUTPUT
+![image](https://github.com/user-attachments/assets/12f9fe4d-bb27-4562-a42c-04d39d617bd3)
 
 ### RESULT
+Thus,the given python program is implemented and executed sucessfully.
