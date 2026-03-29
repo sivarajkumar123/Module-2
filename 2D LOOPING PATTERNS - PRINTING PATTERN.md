@@ -32,5 +32,7 @@ To write a Python program to print a triangular star pattern using loops.
 ```
 
 ### OUTPUT
+![image](https://github.com/user-attachments/assets/d511a865-bfcf-426e-ba2b-28be32fe05c7)
 
 ### RESULT
+Thus the Python program to print a downward pyramid star pattern using loops was executed successfully and the output was verified.
